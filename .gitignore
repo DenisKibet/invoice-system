@@ -1,0 +1,49 @@
+# Ignore system files
+*.DS_Store
+*.Thumbs.db
+
+# Ignore vendor folder (if using Composer)
+vendor/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore writable directory contents except .gitkeep
+writable/*
+!writable/.gitkeep                                           
+
+# Ignore cache
+writable/cache/*
+!writable/cache/index.html
+
+# Ignore session files
+writable/session/*
+!writable/session/index.html
+
+# Ignore logs
+writable/logs/*
+!writable/logs/index.html
+
+# Ignore uploaded files (optional, depending on your project)
+writable/uploads/*
+!writable/uploads/index.html
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore node modules (if using Vite, npm, etc.)
+node_modules/
+
+# Ignore compiled assets (if applicable)
+public/build/
+public/assets/
+
+# Ignore IDE/project specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore PHPStorm meta files
+.phpstorm.meta.php

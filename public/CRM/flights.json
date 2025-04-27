@@ -1,0 +1,872 @@
+{
+    "Destination":[
+      
+      {
+        "groupName": "Antigua",
+        "title": "Holidays to Antigua",
+        "Displayname": "Antigua",
+        "Iata": "ANU"
+       
+      },
+      {
+        "groupName": "Balearics",
+        "title": "Holidays to - All",
+        "Displayname": "All Balearics",
+        "Iata": "IBZ,MAH,PMI"
+        
+      },
+      {
+        "groupName": "Balearics",
+        "title": "Holidays to Ibiza",
+        "Displayname": "Ibiza",
+        "Iata": "IBZ"
+        
+      },
+      {
+        "groupName": "Balearics",
+        "title": "Holidays to Majorca",
+        "Displayname": "Majorca",
+        "Iata": "PMI"
+        
+      },
+      {
+        "groupName": "Balearics",
+        "title": "Holidays to Menorca",
+        "Displayname": "Menorca",
+        "Iata": "MAH"
+        
+      },
+      {
+        "groupName": "Barbados",
+        "title": "Holidays to Barbados",
+        "Displayname": "Barbados",
+        "Iata": "BGI"
+        
+      },
+      {
+        "groupName": "Bulgaria",
+        "title": "Holidays to All",
+        "Displayname": "All Bulgaria",
+        "Iata": "BOJ,VAR"
+        
+      },
+      {
+        "groupName": "Bulgaria",
+        "title": "Holidays to Bourgas",
+        "Displayname": "Bourgas",
+        "Iata": "BOJ"
+        
+      },
+      {
+        "groupName": "Bulgaria",
+        "title": "Holidays to Varna",
+        "Displayname": "Varna",
+        "Iata": "VAR"
+        
+      },
+      {
+        "groupName": "Canaries",
+        "title": "Holidays to - All",
+        "Displayname": "All Canaries",
+        "Iata": "ACE,FUE,LPA,SPC,TFS"
+       
+      },
+      {
+        "groupName": "Canaries",
+        "title": "Holidays to Fuerteventura",
+        "Displayname": "Fuerteventura",
+        "Iata": "FUE"
+       
+      },
+      {
+        "groupName": "Canaries",
+        "title": "Holidays to Gran Canaria",
+        "Displayname": "Gran Canaria",
+        "Iata": "LPA"
+       
+      },
+      {
+        "groupName": "Canaries",
+        "title": "Holidays to La Palma",
+        "Displayname": "La Palma",
+        "Iata": "SPC"
+        
+      },
+      {
+        "groupName": "Canaries",
+        "title": "Holidays to Lanzarote",
+        "Displayname": "Lanzarote",
+        "Iata": "ACE"
+       
+      },
+      {
+        "groupName": "Canaries",
+        "title": "Holidays to Tenerife",
+        "Displayname": "Tenerife",
+        "Iata": "TFS"
+       
+      },
+      {
+        "groupName": "Croatia",
+        "title": "Holidays to All",
+        "Displayname": "All Croatia",
+        "Iata": "PUY,SPU,DBV"
+       
+      },
+      {
+        "groupName": "Croatia",
+        "title": "Holidays to Dubrovnik and Islands",
+        "Displayname": "Dubrovnik and Islands",
+        "Iata": "DBV"
+       
+      },
+      {
+        "groupName": "Croatia",
+        "title": "Holidays to Pula",
+        "Displayname": "Pula",
+        "Iata": "PUY"
+       
+      },
+      {
+        "groupName": "Croatia",
+        "title": "Holidays to Split",
+        "Displayname": "Split",
+        "Iata": "SPU"
+       
+      },
+      {
+        "groupName": "Cuba",
+        "title": "Holidays to Havana",
+        "Displayname": "Havana",
+        "Iata": "HAV"
+        
+      },
+      {
+        "groupName": "Cyprus",
+        "title": "Holidays to - All",
+        "Displayname": "All Cyprus",
+        "Iata": "LCA,PFO"
+       
+      },
+      {
+        "groupName": "Cyprus",
+        "title": "Holidays to Larnaca",
+        "Displayname": "Larnaca",
+        "Iata": "LCA"
+        
+      },
+      {
+        "groupName": "Cyprus",
+        "title": "Holidays to Paphos",
+        "Displayname": "Paphos",
+        "Iata": "PFO"
+        
+      },
+      {
+        "groupName": "Dominican Republic",
+        "title": "Holidays to All",
+        "Displayname": "All Dominican Republic",
+        "Iata": "POP,PUJ"
+       
+      },
+      {
+        "groupName": "Dominican Republic",
+        "title": "Holidays to Puerto Plata Area",
+        "Displayname": "Puerto Plata Area",
+        "Iata": "POP"
+       
+      },
+      {
+        "groupName": "Dominican Republic",
+        "title": "Holidays to Punta Cana Area",
+        "Displayname": "Punta Cana Area",
+        "Iata": "PUJ"
+      
+      },
+      {
+        "groupName": "Dubai",
+        "title": "Holidays to Dubai",
+        "Displayname": "Dubai",
+        "Iata": "DXB"
+        
+      },
+      {
+        "groupName": "Egypt",
+        "title": "Holidays to All",
+        "Displayname": "All Egypt",
+        "Iata": "CAI,HRG,TCP,ASW,SSH"
+       
+      },
+      {
+        "groupName": "Egypt",
+        "title": "Holidays to Hurghada",
+        "Displayname": "Hurghada",
+        "Iata": "HRG"
+       
+      },
+      {
+        "groupName": "Egypt",
+        "title": "Holidays to Sharm El Sheikh",
+        "Displayname": "Sharm El Sheikh",
+        "Iata": "SSH"
+        
+      },
+      {
+        "groupName": "France",
+        "title": "Holidays to Paris",
+        "Displayname": "Paris",
+        "Iata": "CDG"
+       
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to All",
+        "Displayname": "All Greece",
+        "Iata": "ATH,CFU,HER,EFL,JMK,JSI,JTR,KGS,KVA,MJT,PVK,RHO,SKG,SMI,ZTH"
+       
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Athens",
+        "Displayname": "Athens",
+        "Iata": "ATH"
+      
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Corfu",
+        "Displayname": "Corfu",
+        "Iata": "CFU"
+      
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Crete",
+        "Displayname": "Crete",
+        "Iata": "HER"
+      
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Kefalonia",
+        "Displayname": "Kefalonia",
+        "Iata": "EFL"
+      
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Kos",
+        "Displayname": "Kos",
+        "Iata": "KGS"
+       
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Mykonos",
+        "Displayname": "Mykonos",
+        "Iata": "JMK"
+       
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Rhodes",
+        "Displayname": "Rhodes",
+        "Iata": "RHO"
+      
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Samos",
+        "Displayname": "Samos",
+        "Iata": "SMI"
+      
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Santorini",
+        "Displayname": "Santorini",
+        "Iata": "JTR"
+       
+      },
+      {
+        "groupName": "Greece",
+        "title": "Holidays to Zante",
+        "Displayname": "Zante",
+        "Iata": "ZTH"
+       
+      },
+      {
+        "groupName": "India",
+        "title": "Holidays to Goa",
+        "Displayname": "Goa",
+        "Iata": "GOI"
+       
+      },
+      {
+        "groupName": "Italy",
+        "title": "Holidays to - All",
+        "Displayname": "All Italy",
+        "Iata": "FCO,NAP,AHO"
+        
+      },
+      {
+        "groupName": "Italy",
+        "title": "Holidays to Rome",
+        "Displayname": "Rome",
+        "Iata": "FCO"
+       
+      },
+      {
+        "groupName": "Italy",
+        "title": "Holidays to Sorrento",
+        "Displayname": "Sorrento",
+        "Iata": "NAP"
+       
+      },
+      {
+        "groupName": "Italy",
+        "title": "Holidays to Sardinia",
+        "Displayname": "Sardinia",
+        "Iata": "AHO"
+       
+      },
+      {
+        "groupName": "Italy",
+        "title": "Holidays to Sicily",
+        "Displayname": "Sicily",
+        "Iata": "CTA"
+       
+      },
+      {
+        "groupName": "Italy",
+        "title": "Holidays to Venice",
+        "Displayname": "Venice",
+        "Iata": "VCE"
+      },
+      {
+        "groupName": "Portugal",
+        "title": "Holidays to All",
+        "Displayname": "All Portugal",
+        "Iata": "FAO,FNC"
+       
+      },
+      {
+        "groupName": "Portugal",
+        "title": "Holidays to Algarve",
+        "Displayname": "Algarve",
+        "Iata": "FAO"
+       
+      },
+      {
+        "groupName": "Portugal",
+        "title": "Holidays to Madeira",
+        "Displayname": "Madeira",
+        "Iata": "FNC"
+        
+      },
+      {
+        "groupName": "Malta",
+        "title": "Holidays to Malta",
+        "Displayname": "Malta",
+        "Iata": "MLA"
+       
+      },
+      {
+        "groupName": "Maldives",
+        "title": "Holidays to Maldives",
+        "Displayname": "Maldives",
+        "Iata": "MLE"
+       
+      },
+      {
+        "groupName": "Mauritius",
+        "title": "Holidays to Mauritius",
+        "Displayname": "Mauritius",
+        "Iata": "MRU"
+       
+      },
+      {
+        "groupName": "Mexico",
+        "title": "Holidays to All",
+        "Displayname": "Cancun",
+        "Iata": "CUN,PVR"
+       
+      },
+      {
+        "groupName": "Mexico",
+        "title": "Holidays to Cancun",
+        "Displayname": "Cancun",
+        "Iata": "CUN"
+       
+      },
+      {
+        "groupName": "Mexico",
+        "title": "Holidays to Puerto Vallarta",
+        "Displayname": "Puerto Vallarta",
+        "Iata": "PVR"
+      
+      },
+      {
+        "groupName": "Montenegro",
+        "title": "Holidays to Montenegro",
+        "Displayname": "Montenegro",
+        "Iata": "TGD"
+      
+      },
+      {
+        "groupName": "Morocco",
+        "title": "Holidays to All",
+        "Displayname": "All Morocco",
+        "Iata": "AGA,RAK"
+       
+      },
+      {
+        "groupName": "Morocco",
+        "title": "Holidays to Agadir",
+        "Displayname": "Agadir",
+        "Iata": "AGA"
+       
+      },
+      {
+        "groupName": "Morocco",
+        "title": "Holidays to Marrakech",
+        "Displayname": "Marrakech",
+        "Iata": "RAK"
+       
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to All",
+        "Displayname": "All Spain",
+        "Iata": "AGP,ALC,GRO,GRX,LEI,REU,XRY,BCN"
+       
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Barcelona",
+        "Displayname": "Barcelona",
+        "Iata": "BCN"
+       
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Costa Blanca (Alicante, Benidorm)",
+        "Displayname": "Costa Blanca (Alicante, Benidorm)",
+        "Iata": "ALC"
+       
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Costa Calida (Murica)",
+        "Displayname": "Costa Calida (Murica)",
+        "Iata": "MJV"
+        
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Costa Del Azahar (Valencia)",
+        "Displayname": "Costa Del Azahar (Valencia)",
+        "Iata": "VLC"
+       
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Costa Del Sol (Benalmadena, Malaga, Marbella)",
+        "Displayname": "Costa Del Sol (Benalmadena, Malaga, Marbella)",
+        "Iata": "AGP"
+       
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Costa Dorada (Salou \u2013 Port Aventura)",
+        "Displayname": "Costa Dorada (Salou \u2013 Port Aventura)",
+        "Iata": "REU"
+        
+      },
+      {
+        "groupName": "Spain",
+        "title": "Holidays to Costa Del Azahar (Valencia)",
+        "Displayname": "Madrid",
+        "Iata": "MAD"
+       
+      },
+      {
+        "groupName": "Thailand",
+        "title": "Holidays to All Thailand",
+        "Displayname": "All Thailand",
+        "Iata": "HKT,"
+       
+      },
+      {
+        "groupName": "Thailand",
+        "title": "Holidays to Phuket",
+        "Displayname": "Phuket",
+        "Iata": "HKT"
+       
+      },
+      {
+        "groupName": "Thailand",
+        "title": "Holidays to koh Samui",
+        "Displayname": "koh Samui",
+        "Iata": "USM"
+        
+      },
+      {
+        "groupName": "Thailand",
+        "title": "Holidays to koh Samui",
+        "Displayname": "Krabi",
+        "Iata": "KBV"
+        
+      },
+      {
+        "groupName": "Turkey",
+        "title": "Holidays to Antalya",
+        "Displayname": "Antalya",
+        "Iata": "AYT"
+       
+      },
+      {
+        "groupName": "Turkey",
+        "title": "Holidays to Bodrum",
+        "Displayname": "Bodrum",
+        "Iata": "BJV"
+      
+      },
+      {
+        "groupName": "Turkey",
+        "title": "Holidays to Dalaman (Marmaris, Olu Deniz, Fethiye)",
+        "Displayname": "Dalaman (Marmaris, Olu Deniz, Fethiye)",
+        "Iata": "DLM"
+      
+      },
+      {
+        "groupName": "Turkey",
+        "title": "Holidays to Dalaman Istanbul",
+        "Displayname": "Istanbul",
+        "Iata": "IST"
+     
+      },
+      {
+        "groupName": "Turkey",
+        "title": "Holidays to Izmir (Kusadasi)",
+        "Displayname": "Izmir (Kusadasi)",
+        "Iata": "ADB"
+       
+      },
+      {
+        "groupName": "Tunisia",
+        "title": "Holidays to Enfidha Hammamet",
+        "Displayname": "Enfidha Hammamet",
+        "Iata": "NBE"
+       
+      },
+      {
+        "groupName": "UAE",
+        "title": "Holidays to Abu Dhabi",
+        "Displayname": "Abu Dhabi",
+        "Iata": "AUH"
+      
+      },
+      {
+        "groupName": "UAE",
+        "title": "Holidays to Dubai",
+        "Displayname": "Dubai",
+        "Iata": "DXB"
+      
+      },
+      {
+        "groupName": "UAE",
+        "title": "Holidays to Ras Al Khaimah ",
+        "Displayname": "Ras Al Khaimah ",
+        "Iata": "DXB"
+       
+      },
+      {
+        "groupName": "USA",
+        "title": "Holidays to California",
+        "Displayname": "California",
+        "Iata": "LAX"
+      
+      },
+      {
+        "groupName": "USA",
+        "title": "Holidays to Florida Miami ",
+        "Displayname": "Florida Miami",
+        "Iata": "MIA"
+      
+      },
+      {
+        "groupName": "USA",
+        "title": "Holidays to Florida Orlando ",
+        "Displayname": "Florida Orlando",
+        "Iata": "MCO"
+        
+      },
+      {
+        "groupName": "USA",
+        "title": "Holidays to Nevada Las Vegas ",
+        "Displayname": "Nevada Las Vegas",
+        "Iata": "LAS"
+     
+      }
+    ],
+  
+    "Location":[
+      {
+        "groupName": "Fly From Regions",
+        "title": "Select Departure Airport",
+        "Displayname": "London",
+        "Iata": "LCY,LGW,LHR,STN,LTN,SEN"
+        
+        
+      },
+      {
+        "groupName": "Fly From Regions",
+        "title": "Fly from Midlands",
+        "Displayname": "Midlands",
+        "Iata": "BHX,EMA,CVT,DSA,CWL,MAN"
+        
+       
+      },
+      {
+        "groupName": "Fly From Regions",
+        "title": "Fly from North East",
+        "Displayname": "North East",
+        "Iata": "NCL,MME,HUY,DSA,LBA,GLA"
+    
+      },
+      {
+        "groupName": "Fly From Regions",
+        "title": "Fly from North West",
+        "Displayname": "North West",
+        "Iata": "MAN,LPL,LBA,DSA"
+      
+      },
+      {
+        "groupName": "Fly From Regions",
+        "title": "Fly from Scotland",
+        "Displayname": "Scotland",
+        "Iata": "ABZ,EDI,GLA,INV,PIK"
+       
+      },
+      {
+        "groupName": "Fly From Regions",
+        "title": "Fly from South Coast",
+        "Displayname": "South Coast",
+        "Iata": "BOH,SOU"
+       
+      },
+      {
+        "groupName": "Fly From Regions",
+        "title": "Fly from South West \u0026 Wales",
+        "Displayname": "South West \u0026 Wales",
+        "Iata": "BRS,CWL,EXT,NQY"
+        
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Aberdeen",
+        "Displayname": "Aberdeen",
+        "Iata": "ABZ"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Belfast International",
+        "Displayname": "Belfast International",
+        "Iata": "BFS"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Birmingham International",
+        "Displayname": "Birmingham International",
+        "Iata": "BHX"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Bournemouth",
+        "Displayname": "Bournemouth",
+        "Iata": "BOH"
+    
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Bristol",
+        "Displayname": "Bristol",
+        "Iata": "BRS"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Cardiff",
+        "Displayname": "Cardiff",
+        "Iata": "CWL"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Coventry",
+        "Displayname": "Coventry",
+        "Iata": "CVT"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Derry",
+        "Displayname": "Derry",
+        "Iata": "LDY"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Doncaster",
+        "Displayname": "Doncaster",
+        "Iata": "DSA"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from East Midlands",
+        "Displayname": "East Midlands",
+        "Iata": "EMA"
+        
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Edinburgh",
+        "Displayname": "Edinburgh",
+        "Iata": "EDI"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Exeter",
+        "Displayname": "Exeter",
+        "Iata": "EXT"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Gatwick",
+        "Displayname": "Gatwick",
+        "Iata": "LGW"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Glasgow International",
+        "Displayname": "Glasgow International",
+        "Iata": "EXT"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Glasgow Prestwick",
+        "Displayname": "Glasgow Prestwick",
+        "Iata": "PIK"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Heathrow",
+        "Displayname": "Heathrow",
+        "Iata": "LHR"
+      
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Humberside",
+        "Displayname": "Humberside",
+        "Iata": "HUY"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Inverness",
+        "Displayname": "Inverness",
+        "Iata": "INV"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Leeds Bradford",
+        "Displayname": "Leeds Bradford",
+        "Iata": "LBA"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Liverpool",
+        "Displayname": "Liverpool",
+        "Iata": "LPL"
+      
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Luton",
+        "Displayname": "Luton",
+        "Iata": "LTN"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Manchester",
+        "Displayname": "Manchester",
+        "Iata": "MAN"
+      
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Newcastle",
+        "Displayname": "Newcastle",
+        "Iata": "NCL"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Newquay",
+        "Displayname": "Newquay",
+        "Iata": "NQY"
+    
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Norwich",
+        "Displayname": "Norwich",
+        "Iata": "NWI"
+       
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Southampton",
+        "Displayname": "Southampton",
+        "Iata": "SOU"
+      
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Southend",
+        "Displayname": "Southend",
+        "Iata": "SEN"
+        
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Stansted",
+        "Displayname": "Stansted",
+        "Iata": "STN"
+      
+      },
+      {
+        "groupName": "Specific Airport",
+        "title": "Fly from Teesside",
+        "Displayname": "Teesside",
+        "Iata": "MME"
+       
+      }
+    ]
+    
+  }
+  

@@ -1,0 +1,18 @@
+{
+    "name": "google/login",
+    "description": "Social login, google login",
+    "autoload": {
+        "psr-4": {
+            "Google\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Steve",
+            "email": "stevearnold9e@gmail.com"
+        }
+    ],
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
