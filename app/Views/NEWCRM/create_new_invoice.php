@@ -590,7 +590,7 @@ input:checked+.slider:before {
                                         <label for="subtotal" class="col-sm-3 col-form-label">Sub-Total</label>
                                         <div class="col-sm-9">
                                             <input type="text" class="form-control" readonly="readonly" name="subtotal"
-                                                id="subtotal" placeholder="£0.00"
+                                                id="subtotal" placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -598,7 +598,7 @@ input:checked+.slider:before {
                                         <label for="discount" class="col-sm-3 col-form-label">Discount</label>
                                         <div class="col-sm-9">
                                             <input type="text" class="form-control" name="discount" id="discount"
-                                                placeholder="£0.00"
+                                                placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -608,7 +608,7 @@ input:checked+.slider:before {
                                         <label for="total" class="col-sm-3 col-form-label">Total</label>
                                         <div class="col-sm-9">
                                             <input type="text" class="form-control" readonly="readonly" name="total"
-                                                id="total" placeholder="£0.00"
+                                                id="total" placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -616,7 +616,7 @@ input:checked+.slider:before {
                                         <label for="paid" class="col-sm-3 col-form-label">Paid</label>
                                         <div class="col-sm-9">
                                             <input type="text" class="form-control" name="paid" id="paid"
-                                                placeholder="£0.00"
+                                                placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -640,7 +640,7 @@ input:checked+.slider:before {
                                         <label for="balance" class="col-sm-3 col-form-label">Balance</label>
                                         <div class="col-sm-9">
                                             <input type="text" class="form-control" readonly="readonly" name="balance"
-                                                id="balance" placeholder="£0.00"
+                                                id="balance" placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -649,7 +649,7 @@ input:checked+.slider:before {
                                         <label for="netprice" class="col-sm-3 col-form-label">Cost Price</label>
                                         <div class="col-sm-9">
                                             <input type="number" class="form-control" readonly="readonly" name="netprice"
-                                                id="netprice" placeholder="£0.00"
+                                                id="netprice" placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -658,7 +658,7 @@ input:checked+.slider:before {
                                         <label for="profit" class="col-sm-3 col-form-label">Profit/Loss</label>
                                         <div class="col-sm-9">
                                             <input type="text" class="form-control" readonly="readonly" name="profit"
-                                                id="profitDisplay" placeholder="£0.00"
+                                                id="profitDisplay" placeholder="Ksh0.00"
                                                 style=" border-right: none; border-left: none; border-top: none;">
                                         </div>
                                     </div>
@@ -700,15 +700,15 @@ input:checked+.slider:before {
                                                 </div>
                                                 <div class="amount-display d-flex flex-row">
                                                     <p ><strong>Total</strong></p>
-                                                    <p class="ml-auto" id="previewRightTotal" >£0.00</p>
+                                                    <p class="ml-auto" id="previewRightTotal" >Ksh0.00</p>
                                                 </div>
                                                 <div class="amount-display d-flex flex-row">
                                                     <p><strong>Paid</strong></p>
-                                                    <p class="ml-auto" id="previewRightPaid">£0.00</p>
+                                                    <p class="ml-auto" id="previewRightPaid">Ksh0.00</p>
                                                 </div>
                                                 <div class="amount-display d-flex  flex-row">
                                                     <p><strong>Balance</strong></p>
-                                                    <p class="ml-auto" id="previewRightBalance1">£0.00</p>
+                                                    <p class="ml-auto" id="previewRightBalance1">Ksh0.00</p>
                                                 </div>
                                             </div>
 
@@ -819,15 +819,15 @@ input:checked+.slider:before {
                                                 </div>
                                                 <div class="amount-display d-flex justify-content-between mb-2">
                                                     <p><strong>Total</strong></p>
-                                                    <p id="sendSectionTotal">£0.00</p>
+                                                    <p id="sendSectionTotal">Ksh0.00</p>
                                                 </div>
                                                 <div class="amount-display d-flex justify-content-between mb-2">
                                                     <p><strong>Paid</strong></p>
-                                                    <p id="sendSectionPaid">£0.00</p>
+                                                    <p id="sendSectionPaid">Ksh0.00</p>
                                                 </div>
                                                 <div class="amount-display d-flex justify-content-between">
                                                     <p><strong>Balance</strong></p>
-                                                    <p id="sendSectionBalance">£0.00</p>
+                                                    <p id="sendSectionBalance">Ksh0.00</p>
                                                 </div>
                                             </div>
                                             <hr>
@@ -1000,8 +1000,8 @@ input:checked+.slider:before {
                     $("#pdfview").show();
 
                     function removeCurrencySymbol(value) {
-                    // Remove the pound sign (£) from the beginning of the string
-                        return value.replace(/^£/, '');
+                    // Remove the pound sign (Ksh) from the beginning of the string
+                        return value.replace(/^Ksh/, '');
                     }
 
                     // Example usage:
@@ -1149,8 +1149,8 @@ input:checked+.slider:before {
                 e.stopImmediatePropagation();
 
                 function removeCurrencySymbol(value) {
-                    // Remove the pound sign (£) from the beginning of the string
-                    return value.replace(/^£/, '');
+                    // Remove the pound sign (Ksh) from the beginning of the string
+                    return value.replace(/^Ksh/, '');
                 }
 
                 // Example usage:
@@ -1198,11 +1198,11 @@ input:checked+.slider:before {
 
                 // Update the Paid
                 var paidValue = paid !== '' ? paid : "0.00";
-                $('#previewRightPaid').text("£" + paidValue);
+                $('#previewRightPaid').text("Ksh" + paidValue);
 
                 // Update the Balance
-                var balanceValue = balance !== '' ? balance : "£0.00";
-                $('#previewRightBalance1').html(`<strong>£${balanceValue}</strong>`);
+                var balanceValue = balance !== '' ? balance : "Ksh0.00";
+                $('#previewRightBalance1').html(`<strong>Ksh${balanceValue}</strong>`);
                 
                 // show preview div and hide the rest
                 $('#createform').hide();
@@ -1243,20 +1243,20 @@ input:checked+.slider:before {
                 $("#sendInvoiceto").val(invoiceClientEmail);
                 
                 var sendSectionTotal =$('#total').val();
-                var sendSectionTotalValue = sendSectionTotal !== '' ? sendSectionTotal : "£0.00";            
+                var sendSectionTotalValue = sendSectionTotal !== '' ? sendSectionTotal : "Ksh0.00";            
                 $("#sendSectionTotal").text(sendSectionTotalValue);
 
                 var sendSectionPaid =$('#paid').val();
                 var sendSectionPaidValue = sendSectionPaid !== '' ? sendSectionPaid : "0.00";            
-                $("#sendSectionPaid").text(`£${sendSectionPaidValue}`);            
+                $("#sendSectionPaid").text(`Ksh${sendSectionPaidValue}`);            
 
                 var sendSectionBalance =$('#balance').val();
-                var sendSectionBalanceValue = sendSectionBalance !== '' ? sendSectionBalance : "£0.00";            
+                var sendSectionBalanceValue = sendSectionBalance !== '' ? sendSectionBalance : "Ksh0.00";            
                 $('#sendSectionBalance').html(`<strong>${sendSectionBalanceValue}</strong>`);
 
                 function removeCurrencySymbol(value) {
-                    // Remove the pound sign (£) from the beginning of the string
-                    return value.replace(/^£/, '');
+                    // Remove the pound sign (Ksh) from the beginning of the string
+                    return value.replace(/^Ksh/, '');
                 }
 
                 // Example usage:
@@ -1630,8 +1630,8 @@ input:checked+.slider:before {
                         parent.find('.totalprice').val(total_price.toFixed(2));
 
                         // update the other fields with the autocomplete values
-                        $('#total').val('£' + total_price);
-                        $('#balance').val('£' +total_price);
+                        $('#total').val('Ksh' + total_price);
+                        $('#balance').val('Ksh' +total_price);
 
                         // Calculate and update the total and costprice sum of all total prices
                         calculateTotalSum();
@@ -1913,7 +1913,7 @@ input:checked+.slider:before {
         }
         
         function calculateProfitLoss() {
-        var total = parseFloat($("#total").val().replace('£', ''));
+        var total = parseFloat($("#total").val().replace('Ksh', ''));
         var netPrice = parseFloat($("#netprice").val());
         var profitLoss = total - netPrice;
         $("#profitDisplay").val(profitLoss.toFixed(2));
@@ -2080,8 +2080,8 @@ input:checked+.slider:before {
 
                 $('#totalprice').val(total_price);
                 $('#subtotal').val(total_price);
-                $('#total').val('£' + total_price);
-                $('#balance').val('£' +total_price);
+                $('#total').val('Ksh' + total_price);
+                $('#balance').val('Ksh' +total_price);
                 
                 var profit_loss = total_price -  cost_price;
                 $('#profitDisplay').val(profit_loss);
@@ -2193,7 +2193,7 @@ input:checked+.slider:before {
         });
         $("#paid").on("input", function() {
             var discount = $("#discount").val();
-            var paid = $("#paid").val().replace('£', '');
+            var paid = $("#paid").val().replace('Ksh', '');
 
             let newsubtotal = $("#subtotal").val();
             $("#balance").val(((newsubtotal - paid) - discount).toFixed(2));
@@ -2214,7 +2214,7 @@ input:checked+.slider:before {
         //     var totalprice = value * rate;
         //     var costprice = parseInt($('#costprice'+i).val()) || 0;
         //     var totalcostprice = 0;
-        //     var total = parseInt($('#total').val().split('£')[1]);
+        //     var total = parseInt($('#total').val().split('Ksh')[1]);
         //     var netprice = parseInt($('#netprice').val()) || 0;
         //     var discount = $("#discount").val();
         //     var paid = $("#paid").val();
@@ -2237,7 +2237,7 @@ input:checked+.slider:before {
         //         if (valueprice == 0) {
         //             pricehere = parseInt(valueprice);
         //         } else {
-        //             valuesplit = valueprice.split('£');
+        //             valuesplit = valueprice.split('Ksh');
         //             pricehere = parseInt(valuesplit[1]);
 
         //             if (valuesplit.length == 1) {
@@ -2248,8 +2248,8 @@ input:checked+.slider:before {
         //         console.log("subtotal", );
         //     }
         //     $("#subtotal").val(subtotal);
-        //     $("#total").val('£' + ((subtotal) - discount));
-        //     $("#balance").val('£' + ((subtotal - paid) - discount));
+        //     $("#total").val('Ksh' + ((subtotal) - discount));
+        //     $("#balance").val('Ksh' + ((subtotal - paid) - discount));
             
         //     var subtotal = parseFloat($("#subtotal").val()) || 0;
         //     var costPrice = parseFloat($("#netprice").val()) || 0;
@@ -2288,7 +2288,7 @@ input:checked+.slider:before {
             var totalprice = value * rate;
             var costprice = parseFloat($('#costprice' + i).val()) || 0;
             var totalcostprice = 0;
-            var total = parseFloat($('#total').val().replace('£', '')) || 0;
+            var total = parseFloat($('#total').val().replace('Ksh', '')) || 0;
             var netprice = parseFloat($('#netprice').val()) || 0;
             var discount = parseFloat($("#discount").val()) || 0;
             var paid = parseFloat($("#paid").val()) || 0;
@@ -2315,8 +2315,8 @@ input:checked+.slider:before {
                 if (valueprice === '' || valueprice === '0') {
                     pricehere = 0;
                 } else {
-                    // Handle cases where the value might or might not have a £ symbol
-                    valuesplit = valueprice.toString().split('£');
+                    // Handle cases where the value might or might not have a Ksh symbol
+                    valuesplit = valueprice.toString().split('Ksh');
                     pricehere = parseFloat(valuesplit[valuesplit.length > 1 ? 1 : 0]) || 0;
                 }
                 subtotal += pricehere;
@@ -2363,7 +2363,7 @@ input:checked+.slider:before {
         //         if (valueprice == 0) {
         //             pricehere = parseInt(valueprice);
         //         } else {
-        //             valuesplit = valueprice.split('£');
+        //             valuesplit = valueprice.split('Ksh');
         //             pricehere = parseInt(valuesplit[1]);
         //             if (valuesplit.length == 1) {
         //                 pricehere = parseInt(valueprice);
@@ -2402,8 +2402,8 @@ input:checked+.slider:before {
                 let pricehere = 0;
                 if (rowValue && rowValue !== '0') {
                     // Remove currency symbol if present
-                    if (rowValue.includes('£')) {
-                        rowValue = rowValue.replace('£', '');
+                    if (rowValue.includes('Ksh')) {
+                        rowValue = rowValue.replace('Ksh', '');
                     }
                     pricehere = parseFloat(rowValue) || 0;
                 }
@@ -2416,7 +2416,7 @@ input:checked+.slider:before {
             $('#netprice').val(totalcostprice.toFixed(2));
             
             // Get the current total (removing currency symbol if present)
-            var total = parseFloat($("#total").val().replace('£', '')) || 0;
+            var total = parseFloat($("#total").val().replace('Ksh', '')) || 0;
             
             // Calculate profit/loss
             var profitLoss = total - totalcostprice;
@@ -2457,7 +2457,7 @@ input:checked+.slider:before {
             if (valueprice == 0) {
                 pricehere = parseInt(valueprice);
             } else {
-                valuesplit = valueprice.split('£');
+                valuesplit = valueprice.split('Ksh');
                 pricehere = parseInt(valuesplit[1]);
 
                 if (valuesplit.length == 1) {
@@ -2532,7 +2532,7 @@ input:checked+.slider:before {
             let Bal = $("#balance").val();
             let duedate = $("#duedate").val();
             
-            Bal = Bal ? Bal : '£0.00';
+            Bal = Bal ? Bal : 'Ksh0.00';
             duedate = duedate;
             $('#depositRequestModal').modal('show');
             $('#depositRequestModal #invoiceBalance').text(Bal);
@@ -2608,8 +2608,8 @@ input:checked+.slider:before {
             function sendInvoice() {
 
                 function removeCurrencySymbol(value) {
-                    // Remove the pound sign (£) from the beginning of the string
-                    return value.replace(/^£/, '');
+                    // Remove the pound sign (Ksh) from the beginning of the string
+                    return value.replace(/^Ksh/, '');
                 }
 
                 // Example usage:
